@@ -13,6 +13,7 @@ API: http://api.nbp.pl/ :dollar: :computer: :dollar:
 :bank:
 
 ----------------Opis PL--------------
+
 Po uruchomieniu program zapyta o walutę, która cb interesuje oraz o datę. Program pobierze kurs sprzedaży i kupna dla danej waluty z danego dnia(data). Potem program zapyta się o to czy chcemy kupić czy sprzedaż daną walutę. Na końcu program wyświetli koszt kupna lub sprzedaży tej waluty.
 
 
