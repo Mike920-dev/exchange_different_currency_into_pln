@@ -21,3 +21,5 @@ Program ten zrobiłem w ramach ćwiczeń z API.
 
 
 Napisałem go od :zero: :blush:.
+
+ZABRANIA SIĘ KOPIOWANIA KODU BEZ ZGODY AUTORA. :no_entry: :no_entry: :no_entry:
