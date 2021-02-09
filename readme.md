@@ -1,12 +1,14 @@
 EXCHANGE CURRENCY INTO PLN - PROGRAM
 
-Author: Michał Slęzak
+Author: Michał Slęzak :heart: :computer: :heart:
 
-Age: 16
+Age: 16 :one: :six:
 
 Language: Python :snake: :heart: :snake:
 
-API: http://api.nbp.pl/ :web:
+:bank:
+API: http://api.nbp.pl/ :dollar: :computer: :dollar:
+:bank:
 
 ----------------Opis PL--------------
 Po uruchomieniu program zapyta o walutę, która cb interesuje oraz o datę. Program pobierze kurs sprzedaży i kupna dla danej waluty z danego dnia(data). Potem program zapyta się o to czy chcemy kupić czy sprzedaż daną walutę. Na końcu program wyświetli koszt kupna lub sprzedaży tej waluty.
@@ -15,4 +17,4 @@ Po uruchomieniu program zapyta o walutę, która cb interesuje oraz o datę. Pro
 Program ten zrobiłem w ramach ćwiczeń z API.
 
 
-Napisałem go od "0" :-).
+Napisałem go od :zero: :blush:.
