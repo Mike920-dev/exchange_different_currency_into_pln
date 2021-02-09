@@ -22,4 +22,4 @@ Program ten zrobiłem w ramach ćwiczeń z API.
 
 Napisałem go od :zero: :blush:.
 
-ZABRANIA SIĘ KOPIOWANIA KODU BEZ ZGODY AUTORA. :no_entry: :no_entry: :no_entry:
+ZABRANIA SIĘ KOPIOWANIA I UŻYWANIA KODU BEZ ZGODY AUTORA. :no_entry: :no_entry: :no_entry:
