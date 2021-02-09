@@ -4,7 +4,7 @@ Author: Michał Slęzak
 
 Age: 16
 
-Language: Python :snake: :heart:
+Language: Python :snake: :heart: :snake:
 
 API: http://api.nbp.pl/ :web:
 
