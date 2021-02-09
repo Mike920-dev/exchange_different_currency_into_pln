@@ -6,6 +6,9 @@ Age: 16 :one::six:
 
 Language: Python :snake: :heart: :snake:
 
+Version: 1.0
+
+
 :bank:
 
 API: http://api.nbp.pl/ :dollar: :computer: :dollar:
