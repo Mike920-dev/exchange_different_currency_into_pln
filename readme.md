@@ -2,7 +2,7 @@ EXCHANGE CURRENCY INTO PLN - PROGRAM
 
 Author: Michał Slęzak :heart: :computer: :heart:
 
-Age: 16 :one: :six:
+Age: 16 :one::six:
 
 Language: Python :snake: :heart: :snake:
 
