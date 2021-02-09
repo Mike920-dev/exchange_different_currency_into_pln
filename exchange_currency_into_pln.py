@@ -53,7 +53,7 @@ else:
 
     # There is a menu inside the while loop, when user types something different than 'kupno' or 'sprzedaż'm the loop stops and the program ends
     while True:
-        # ask whether user want to buy of sell some currency
+        # ask whether user wants to buy or sell some currency
         choice = input("Chcesz kupić " + currencyFullName + "(kupno) czy sprzedać " + currencyFullName + "(sprzedaż) czy zakończyć(zakończ)" + ": ")
 
         # if our user wants to buy some currency, program asks about its amount and calculates the cost of purchase(in PLN)
