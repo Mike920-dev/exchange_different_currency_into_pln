@@ -1,6 +1,5 @@
 import json
 import requests
-import webbrowser
 import os
 import time
 from pprint import pprint
